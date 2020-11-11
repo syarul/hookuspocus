@@ -4,6 +4,7 @@ const hookuspocus = require("../dist/hookuspocus");
 test("index exports are correct", () => {
   const exportKeys = [
     "fidibus",
+    "dataMap",
     "hookus",
     "pocus",
     "on",
